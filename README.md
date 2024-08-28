@@ -1,6 +1,8 @@
 
 <h1 align="center">Hi 👋, I'm Adarsh Kumbar</h1>
-<img align="center" alt="coding" width="380" height="250" src="https://gifdb.com/images/high/animated-chock-coding-c78f6elj32sfoi8q.gif">
+
+![logo](https://gifdb.com/images/high/animated-chock-coding-c78f6elj32sfoi8q.gif)
+
 <h3 align="center">I am a engineering student from KLS GIT</h3>
 
 - 🔭 I’m currently working on **MERN Stack project**
