@@ -7,9 +7,9 @@
 
 <h3 align="center">I am a engineering student from KLS GIT</h3>
 
-- 🔭 I’m currently working on **MERN Stack project**
+- 🔭 I’m currently working on **Full Stack project**
 
-- 🌱 I’m currently learning **React, Node js**
+- 🌱 I’m currently learning **Angular, Spring Boot**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
