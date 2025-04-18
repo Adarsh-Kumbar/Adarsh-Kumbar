@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Full Stack project**
 
-- 🌱 I’m currently learning **Angular, Spring Boot**
+- 🌱 I’m currently learning **React, Node.js, Express.js, MongoDB**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
